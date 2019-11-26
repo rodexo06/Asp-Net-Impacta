@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script type="text/javascript">
+
+        function Teste()
+        {
+            //var div = document.getElementById('mensagem');
+            //div.innerHTML = "Ok esta funcionando";
+            var obj = new XMLHttpRequest();
+            obj.onreadystatechange = testeCallBack; // quando ele muda o estado, ele da um resposta
+            obj.open("GET", 'exemplo.txt'); //Estou pegando oque esta escrito do exemplo
+            obj.send(); // e mandando
+
+            function testeCallBack() //resposta do que aconteceu
+            {
+                if (obj.readyState == 4)
+                {
+                    if (obj.status == 200) { //codigo de servidor
+                        var resposta = obj.responseText;
+                        var div = document.getElementById('mensagem'); // ele selecionar pela id
+                        div.innerHTML = resposta; //aparecer dento da div
+                    } else {
+                        var div = document.getElementById('mensagem');
+                        div.innerHTML = "Error:" + obj.status;
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Exemplo de AJAX com javascript</h1>
+
+    <input id="exemploButton" type="button" value="Teste" onclick="Teste()"/>
+    <br />
+    <div id="mensagem"></div>
+
+</body>
+</html>

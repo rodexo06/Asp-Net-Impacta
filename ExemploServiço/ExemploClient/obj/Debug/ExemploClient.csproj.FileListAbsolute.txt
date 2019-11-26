@@ -1,0 +1,10 @@
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\bin\Debug\ExemploClient.exe.config
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\bin\Debug\ExemploClient.exe
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\bin\Debug\ExemploClient.pdb
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.csprojAssemblyReference.cache
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.Form1.resources
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.Properties.Resources.resources
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.csproj.GenerateResource.cache
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.csproj.CoreCompileInputs.cache
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.exe
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServiço\ExemploClient\obj\Debug\ExemploClient.pdb

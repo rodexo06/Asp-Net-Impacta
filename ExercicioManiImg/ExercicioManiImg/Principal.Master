@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="ExercicioManiImg.Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <section class="cabecalho">
+            <h1>NorthWind Traders</h1>
+        </section>
+
+        <section class="conteudo">
+            <asp:ContentPlaceHolder
+                ID="conteudoContentPlaceHolder"
+                runat="server">
+            </asp:ContentPlaceHolder>
+        </section>
+        <section class="rodape">
+            <p>Nois é zika e o resto é buraco ladrão</p>
+        </section>
+
+    </form>
+</body>
+</html>
+

@@ -1,0 +1,7 @@
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\bin\Debug\ExemploServico2.exe.config
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\bin\Debug\ExemploServico2.exe
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\bin\Debug\ExemploServico2.pdb
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\obj\Debug\ExemploServico2.csprojAssemblyReference.cache
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\obj\Debug\ExemploServico2.csproj.CoreCompileInputs.cache
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\obj\Debug\ExemploServico2.exe
+C:\Users\rafael.lima\Desktop\Rodexo\ASP .NET\ExemploServico2\ExemploServico2\obj\Debug\ExemploServico2.pdb
